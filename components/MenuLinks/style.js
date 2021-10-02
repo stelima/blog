@@ -1,6 +1,8 @@
 import styled from 'styled-components'
 
-export const MenuLinksWrapper = styled.nav``
+export const MenuLinksWrapper = styled.nav`
+  margin-top: 50px;
+`
 
 export const MenuLinksList = styled.ul`
   font-size: 1.2rem;

@@ -6,10 +6,10 @@ const Profile = () => {
   return (
     <S.Profile>
       <div className='avatar'>
-        <Image src={photo} alt='imagem' className='aaa' width={130} height={130}/>
+        <Image src={photo} alt='imagem' className='aaa' width={150} height={150}/>
       </div>
       <h1>Stefanie Lima</h1>
-      <h2>Front-end Developer</h2>
+      <p>Front-end Developer</p>
     </S.Profile>
   )
 }

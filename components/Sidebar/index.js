@@ -7,7 +7,7 @@ const Sidebar = () => (
   <S.SidebarWrapper>
     <Profile />
     <SocialLinks />
-    {/* <MenuLinks /> */}
+    <MenuLinks />
   </S.SidebarWrapper>
 )
 

@@ -8,6 +8,4 @@ export const SidebarWrapper = styled.div`
     height: auto;
     padding-top: 2rem;
     text-align: center;
-    /* background: #CFCFFE; */
-    background: #F5EFFF;
 `
