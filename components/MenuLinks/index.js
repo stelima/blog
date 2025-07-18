@@ -11,8 +11,9 @@ const MenuLinks = () => (
           </S.MenuLinksLink>
         </S.MenuLinksItem>
       ))}
-    </S.MenuLinksList> */}
-    <span role='img' aria-label='lala'>🏗️ em construção</span>
+    </S.MenuLinksList> 
+    <span role='img' aria-label='lala'>🏗️ em construção</span>*/}
+
   </S.MenuLinksWrapper>
 )
 
